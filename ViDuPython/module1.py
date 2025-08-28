@@ -1,3 +1,3 @@
 #tạo modun 1
 question = 'What is the meaning of Life, the Universe, and Everything?'
-answer = 41
+answer = 42
