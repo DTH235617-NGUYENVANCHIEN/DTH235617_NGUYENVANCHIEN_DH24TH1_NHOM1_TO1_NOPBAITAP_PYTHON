@@ -1,10 +1,10 @@
 
-
+<img align="right" width="300px" height="300px" alt="coding_gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZwcHN2YmwzMzQyZXo0emVqb2NkcGVzN2N4dWxhZm1hMDQ1em9ubSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZuOMrNqKyYt218kKq6/giphy.gif" />
 <h1 align="center">Xin chào 👋, mình là Nguyễn Văn Chiến</h1>
 <h3 align="center">💻 Sinh viên CNTT | Yêu thích lập trình & công nghệ</h3>
 
 ---
-<img align="right" width="300px" height="300px" alt="coding_gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZwcHN2YmwzMzQyZXo0emVqb2NkcGVzN2N4dWxhZm1hMDQ1em9ubSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZuOMrNqKyYt218kKq6/giphy.gif" />
+
 ## ✨ About Me
 - 🎓 Sinh viên ngành Công nghệ Thông tin  
 - 💡 Đam mê **Lập trình Web, Cơ sở dữ liệu và Hệ thống mạng**  
