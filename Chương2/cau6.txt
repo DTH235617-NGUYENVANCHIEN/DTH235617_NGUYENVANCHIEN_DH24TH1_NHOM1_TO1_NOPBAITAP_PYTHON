@@ -1,0 +1,22 @@
+Ý nghĩa các toán tử trong Python:
+
+1. /  : Chia lấy kết quả là số thực (float).
+   - Ví dụ: 5 / 2 = 2.5
+
+2. // : Chia lấy phần nguyên (floor division).
+   - Ví dụ: 5 // 2 = 2
+
+3. %  : Chia lấy phần dư (modulo).
+   - Ví dụ: 5 % 2 = 1
+
+4. ** : Lũy thừa (power).
+   - Ví dụ: 2 ** 3 = 8
+
+5. and: Toán tử logic "và", trả về True nếu cả hai vế đều đúng.
+   - Ví dụ: True and False → False
+
+6. or : Toán tử logic "hoặc", trả về True nếu ít nhất một vế đúng.
+   - Ví dụ: True or False → True
+
+7. is : So sánh hai đối tượng có cùng tham chiếu trong bộ nhớ hay không.
+   - Ví dụ:

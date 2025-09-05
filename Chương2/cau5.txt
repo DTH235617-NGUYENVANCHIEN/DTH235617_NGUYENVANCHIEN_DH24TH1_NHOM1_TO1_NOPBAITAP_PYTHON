@@ -1,0 +1,19 @@
+Các loại ghi chú trong Python:
+
+1. Ghi chú một dòng:
+   - Sử dụng dấu # ở đầu dòng.
+   - Ví dụ: 
+     # Đây là ghi chú một dòng
+
+2. Ghi chú nhiều dòng:
+   - Có thể sử dụng nhiều dấu # liên tiếp ở đầu mỗi dòng.
+   - Hoặc dùng cặp dấu nháy ba đơn ''' hoặc ba nháy kép """ để ghi chú nhiều dòng (thường dùng trong docstring).
+   - Ví dụ:
+     '''
+     Đây là ghi chú
+     nhiều dòng
+     '''
+     hoặc
+     """
+     Đây là ghi chú
+     nhiều

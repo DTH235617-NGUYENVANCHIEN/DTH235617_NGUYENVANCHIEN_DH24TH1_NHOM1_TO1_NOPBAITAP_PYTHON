@@ -1,0 +1,20 @@
+Các loại lỗi khi lập trình và cách bắt lỗi trong Python:
+
+1. Các loại lỗi thường gặp:
+   - Lỗi cú pháp (SyntaxError): Do viết sai cú pháp Python.
+     Ví dụ: print("Hello"
+   - Lỗi logic (Logic Error): Chương trình chạy nhưng cho kết quả sai do sai về mặt tư duy.
+   - Lỗi khi chạy (Runtime Error): Lỗi xảy ra khi chương trình đang thực thi, ví dụ chia cho 0, truy cập phần tử không tồn tại trong danh sách.
+
+2. Cách bắt lỗi trong Python:
+   - Sử dụng khối try...except để bắt và xử lý lỗi khi chạy.
+   - Ví dụ:
+     try:
+         a = int(input("Nhập số: "))
+         b = 10 / a
+         print(b)
+     except ZeroDivisionError:
+         print("Lỗi: Không được chia cho 0!")
+     except ValueError:
+         print("Lỗi: Vui lòng nhập số nguyên!")
+     except Exception as e:
