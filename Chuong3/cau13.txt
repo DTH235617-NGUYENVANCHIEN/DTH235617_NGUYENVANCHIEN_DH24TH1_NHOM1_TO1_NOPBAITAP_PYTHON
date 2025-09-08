@@ -1,0 +1,6 @@
+Có 100 dấu * được in ra màn hình.
+
+Giải thích:  
+Biến a bắt đầu từ 0, vòng lặp while chạy khi a < 100.  
+Tuy nhiên, trong đoạn mã không có lệnh tăng a nên vòng lặp sẽ chạy mãi và in ra vô hạn dấu *.  
+Nếu đúng logic cần có lệnh a += 1 trong vòng lặp, khi đó sẽ in ra đúng 100
