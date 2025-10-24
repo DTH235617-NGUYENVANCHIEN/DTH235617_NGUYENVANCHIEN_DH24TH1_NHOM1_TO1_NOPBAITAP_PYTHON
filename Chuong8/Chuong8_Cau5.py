@@ -24,7 +24,7 @@ def tao_giao_dien_don_gian():
 
     # Tạo 2 nút OK và Cancel
     btn_ok = tk.Button(root, text="OK", width=8, command=lambda: print("OK clicked"))
-    btn_cancel = tk.Button(root, text="Cancel", width=8, command=root.destroy) # root.destroy đóng cửa sổ
+    btn_cancel = tk.Button(root, text="Cancel", width=8, command=root.quit) # root.destroy đóng cửa sổ
 
     # Đặt các nút ở Hàng 3. Sử dụng columnspan=2 để chúng nằm dưới cả 2 cột.
     # Sử dụng sticky="e" để căn các nút sang phải.
